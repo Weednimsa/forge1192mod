@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "enderium_ingot",
+  "ingredients": [
+    {
+      "item": "pap:enderium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "pap:enderium_ingot"
+  }
+}

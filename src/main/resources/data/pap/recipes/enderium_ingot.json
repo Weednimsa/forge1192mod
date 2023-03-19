@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#AA",
+    "BBB",
+    "   "
+  ],
+  "key": {
+    "#":
+    {
+      "item": "pap:enderium"
+    },
+  "A":
+    {
+    "item": "minecraft:netherite_ingot"
+    },
+  "B":
+    {
+    "item": "minecraft:gold_ingot"
+    }
+        },
+  "result":
+  {
+    "item": "pap:enderium_ingot"
+  }
+}

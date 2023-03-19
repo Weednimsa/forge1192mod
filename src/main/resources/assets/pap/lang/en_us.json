@@ -1,0 +1,12 @@
+{
+  "item.pap.enderium": "Enderium",
+  "item.pap.enderium_ingot": "Enderium Ingot",
+  "item.pap.enderium_sword": "Enderium sword",
+  "item.pap.coin": "Coin",
+  "item.pap.piglinmeat": "Piglin meat",
+
+
+  "block.pap.enderium_block": " Block of Enderium",
+  "block.pap.enderium_ore": "Enderium Ore",
+  "itemGroup.paptab": "Pap Materials"
+}
